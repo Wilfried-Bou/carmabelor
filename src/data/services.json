@@ -130,11 +130,11 @@
         "services": [
         { 
             "name": "1/2 bras",
-            "price": "21€", 
+            "price": "22€", 
             "duration": "15 min" },
         { 
             "name": "1/2 jambes",
-            "price": "24€", 
+            "price": "25€", 
             "duration": "15 min" },
         { 
             "name": "3/4 jambes",
@@ -150,11 +150,11 @@
             "duration": "5 min" },
         { 
             "name": "Bras",
-            "price": "23€", 
+            "price": "24€", 
             "duration": "20 min" },
         { 
             "name": "Cuisses",
-            "price": "25€", 
+            "price": "26€", 
             "duration": "20 min" },
         { 
             "name": "Jambes entières",
@@ -166,19 +166,19 @@
             "duration": "10 min" },
         { 
             "name": "Maillot Brésilien",
-            "price": "21€", 
+            "price": "22€", 
             "duration": "15 min" },
         { 
             "name": "Maillot intégral",
-            "price": "33€", 
+            "price": "34€", 
             "duration": "30 min" },
         { 
             "name": "Maillot semi intégral",
-            "price": "29€", 
+            "price": "30€", 
             "duration": "20 min" },
         { 
             "name": "Maillot simple",
-            "price": "17€", 
+            "price": "18€", 
             "duration": "15 min" },
         { 
             "name": "Sourcils",
@@ -186,7 +186,7 @@
             "duration": "15 min" },
         { 
             "name": "Visage",
-            "price": "33€", 
+            "price": "34€", 
             "duration": "20 min" }
         ]
     },
@@ -197,15 +197,15 @@
         "services": [
         { 
             "name": "1/2 bras au caramel", 
-            "price": "23€", 
+            "price": "24€", 
             "duration": "30 min" },
         { 
             "name": "1/2 jambes au caramel", 
-            "price": "26€", 
+            "price": "27€", 
             "duration": "40 min" },
         { 
             "name": "3/4 jambes au caramel", 
-            "price": "33€", 
+            "price": "34€", 
             "duration": "35 min" },
         { 
             "name": "Aisselles au caramel", 
@@ -221,11 +221,11 @@
             "duration": "40 min" },
         { 
             "name": "Cuisses au caramel", 
-            "price": "27€", 
+            "price": "28€", 
             "duration": "40 min" },
         { 
             "name": "Jambes entières au caramel", 
-            "price": "37€", 
+            "price": "38€", 
             "duration": "50 min" },
         { 
             "name": "Lèvres/menton/nez au caramel", 
@@ -233,7 +233,7 @@
             "duration": "10 min" },
         { 
             "name": "Maillot simple au caramel", 
-            "price": "18€", 
+            "price": "20€", 
             "duration": "20 min" },
         { 
             "name": "Sourcils au caramel", 
@@ -241,7 +241,7 @@
             "duration": "15 min" },
         { 
             "name": "Visage au caramel", 
-            "price": "33€", 
+            "price": "36€", 
             "duration": "20 min" }
         ]
     },
